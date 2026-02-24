@@ -11,4 +11,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### GitHub Stats:
-![Jobaeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JobaeidHasan&show_icons=true&theme=dark)
+![Jobaeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JobaeidHasan-&show_icons=true&theme=dark)
